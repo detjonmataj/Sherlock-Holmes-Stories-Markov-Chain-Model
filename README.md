@@ -1,3 +1,3 @@
-# Sherlock Holmes Stories Markov Chain Model
+# Sherlock Holmes Stories using Markov Chains Model.
 
 Generating Sherlock Holmes Stories using Markov Chains model.
