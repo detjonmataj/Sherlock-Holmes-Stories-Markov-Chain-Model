@@ -1,2 +1,3 @@
-# -Sherlock-Holmes-Stories-Markov-Chain-Codel
+# Sherlock Holmes Stories Markov Chain Model
+
 Generating Sherlock Holmes Stories using Markov Chains model.
